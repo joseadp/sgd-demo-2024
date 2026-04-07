@@ -1,6 +1,6 @@
 # Sistema de Gestão de Dados  - Trabalho Prático
 
-The code and resources available in this repository are to be used only in the scope of the _SGD 2024_ course.
+The code and resources available in this repository are to be used only in the scope of the _SGD 2025-2026_ course.
 
 The main purpose of this repository is to provide examples on how to do the the initial setup of the database-centric REST API that must be developed for the assignment. 
 In particular, the projects available are totally automated to be easily deployed in third-party setups with the help of a tool (in this case `docker` or maven, depending on the project).
@@ -40,5 +40,5 @@ You can modify the contents and the server will update the sources without requi
 
 ## Authors
 
-* SGD 2024 Team
+* SGD 2025-2026 Team
 * University of Coimbra
